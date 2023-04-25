@@ -36,11 +36,11 @@ To use the API repository, follow these steps:
 ## Deployment
 To deploy the API repository to an Azure Function App, follow these steps:
 
-Navigate to the Deployment Center of the Azure Function App and choose GitHub as the source.
+1. Navigate to the Deployment Center of the Azure Function App and choose GitHub as the source.
 
-Select the API repository and configure the deployment options.
+2. Select the API repository and configure the deployment options.
 
-Wait for the deployment to finish and test the Azure Function App by uploading a .docx file to the Blob storage.
+3. Wait for the deployment to finish and test the Azure Function App by uploading a .docx file to the Blob storage.
 
 ## Links
 
