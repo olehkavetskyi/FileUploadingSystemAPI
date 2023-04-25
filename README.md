@@ -44,6 +44,6 @@ Wait for the deployment to finish and test the Azure Function App by uploading a
 
 ## Links
 
-A link to Azure Web Application - https://fileuploadingsystem.azurewebsites.net
-
 In order to see API part follow [this](https://github.com/olehkavetskyi/FileUploadingSystemUI) link
+
+A link to Azure Web Application - https://fileuploadingsystem.azurewebsites.net (deactivated)
