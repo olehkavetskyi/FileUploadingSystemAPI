@@ -11,7 +11,7 @@ To install the API repository, follow these steps:
 1. Clone the repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/your-username/your-api-repo.git
+git clone https://github.com/olehkavetskyi/FileUploadingSystemAPI
 ```
 
 2. Install the .NET 6 on your machine if it is not already installed.
