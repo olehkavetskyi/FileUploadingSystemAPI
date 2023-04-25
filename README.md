@@ -42,6 +42,6 @@ To deploy the API repository to an Azure Function App, follow these steps:
 
 ## Links
 
-In order to see API part follow [this](https://github.com/olehkavetskyi/FileUploadingSystemUI) link
+In order to see UI part follow [this](https://github.com/olehkavetskyi/FileUploadingSystemUI) link
 
 A link to Azure Web Application - https://fileuploadingsystem.azurewebsites.net (deactivated)
