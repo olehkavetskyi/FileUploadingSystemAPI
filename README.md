@@ -1,7 +1,5 @@
 # API
 
-This repository contains UI part of the application
-
 File uploading system was created to test my practical skills of C#, Microsoft Azure and front-end.
 This app represents a form that takes user's email and a file with '.docx' extension. It sends to the server where API part saves to Azure Blob Storage the file. In case of success azure function is triggered and with SendGrid sends notification about success to the user.
 
