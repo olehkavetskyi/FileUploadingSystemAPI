@@ -36,6 +36,7 @@ To use the API repository, follow these steps:
 1. Unit tests
 2. Telegram bot that takes a key word from a user, search in a database files that is contain this key word and return to the user as a message with files?
 3. If the file was downloaded the user can try to contact someone who posted this file (user tap the button 'Request to show an author email after that the author gets an email with this request. The author can confirm or deny it')?
+4. Remove compiled Angular code
 
 ## Deployment
 To deploy the API repository to an Azure Function App, follow these steps:
